@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": "92754952472487hbcry77",
+            "name": "First Product",
+            "price": 2300
+        },
+        {
+            "id": "927549524724eshbcry77",
+            "name": "Second Product",
+            "price": 2400
+        },
+        {
+            "id": "927549sxd72487hbcry77",
+            "name": "Third Product",
+            "price": 3300
+        },
+        {
+            "id": "9275a9sxd72487hbcry77",
+            "name": "Fourth Product",
+            "price": 6300
+        },
+        {
+            "id": "727549sxd72487hbcry77",
+            "name": "Fifth Product",
+            "price": 9300
+        }
+    ]
+}
